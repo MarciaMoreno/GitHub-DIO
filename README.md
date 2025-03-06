@@ -2,6 +2,6 @@
 
 <img src="./assets/icon_curso_github.png" alt="Icone da foramção curso GitHub da DIO">
 
->Professor(a) - Orientador(a): Aline Antunes 
+>Professor(a) - Orientador(a): 
 <img src="./assets/orientadora.png" alt="icone com os dados do professor e orientador do curso">
 
