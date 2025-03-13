@@ -5,3 +5,6 @@
 >Professor(a) - Orientador(a): 
 <img src="./assets/orientadora.png" alt="icone com os dados do professor e orientador do curso">
 
+<br>
+<img src="https://github.com/MarciaMoreno/GitHub-DIO/blob/main/Certificado-Imagem.jpeg?raw=true" alt="Certificado de conclusão">
+
